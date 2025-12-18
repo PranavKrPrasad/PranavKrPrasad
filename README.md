@@ -1,16 +1,17 @@
-<!-- ================= MATRIX STYLE HEADER ================= -->
+<!-- ================= TECHNICAL HEADER ================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranav Kumar Prasad</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Red Team & Blue Team 🔐</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=650&lines=Penetration+Tester;CTF+Player;SOC+Analyst+in+Training;Breaking+to+Secure;Linux+%7C+Networking+%7C+Malware" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C853&center=true&vCenter=true&width=620&lines=Penetration+Testing;CTF+Player;SOC+Analyst+in+Training;Linux+%7C+Networking+%7C+Security+Monitoring" />
 </p>
 
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="260"
+src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
 
 ---
 
@@ -127,9 +128,9 @@
 
 ---
 
-## ☠️ Hacker Quote
-> **"The quieter you become, the more you are able to hear."**
+## 🧠 Security Mindset
+> **"Security is not a product, but a process."**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="420" />
 </p>
