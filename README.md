@@ -28,8 +28,8 @@ src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
 ## 🏆 CTF Badges & Profiles
 
 <p align="left">
-  <a href="https://tryhackme.com/p/YOUR_TRYHACKME">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_TRYHACKME.png" alt="TryHackMe Badge" />
+  <a href="[https://tryhackme.com/p/YOUR_TRYHACKME](https://tryhackme.com/p/pranav2020pranav)">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/pranav2020pranav.pn" alt="TryHackMe Badge" />
   </a>
 </p>
 
