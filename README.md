@@ -71,17 +71,21 @@ src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
 ## 🧰 Cybersecurity Tools & Platforms
 
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="45" style="filter: invert(1);" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="45" style="filter: invert(1);" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="45" style="filter: invert(1);" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="45" style="filter: invert(1);" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/splunk.svg" width="45" style="filter: invert(1);" />
-</p>
+## 🧰 Cybersecurity Tools & Platforms
 
+<p align="center">
+  <!-- Operating Systems -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="48" title="Red Hat"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" title="Ubuntu"/>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Security Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" title="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" title="Git"/>
+</p>
 
 ---
 
