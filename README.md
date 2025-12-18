@@ -21,7 +21,7 @@ src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
 - 🏴‍☠️ Active **CTF Player** (TryHackMe / Hack The Box)
 - 🛡️ Interested in **SOC, Threat Detection & Incident Response**
 - 🧪 Hands-on with **Labs, Vulnerability Analysis & Exploit Research**
-- 📫 Reach me at **your-email@gmail.com**
+- 📫 Reach me at **pranav2020pranav@gmail.com**
 
 ---
 
@@ -29,17 +29,20 @@ src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
 
 <p align="left">
   <a href="https://tryhackme.com/p/pranav2020pranav" target="_blank">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/pranav2020pranav.png"
-         alt="TryHackMe Badge - pranav2020pranav" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/pranav2020pranav.png"
+         alt="TryHackMe Badge"
+         height="120" />
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://app.hackthebox.com/users/2972908" target="_blank">
+    <img src="https://www.hackthebox.com/badge/image/2972908"
+         alt="Hack The Box Badge"
+         height="120" />
   </a>
 </p>
 
-<p align="left">
-  <a href="https://app.hackthebox.com/users/2972908" target="_blank">
-    <img src="https://www.hackthebox.com/badge/image/2972908"
-         alt="Hack The Box Badge" />
-  </a>
-</p>
 
 ---
 
@@ -67,16 +70,18 @@ src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
 
 ## 🧰 Cybersecurity Tools & Platforms
 
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/splunk.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="45" style="filter: invert(1);" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="45" style="filter: invert(1);" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="45" style="filter: invert(1);" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="45" style="filter: invert(1);" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/splunk.svg" width="45" style="filter: invert(1);" />
 </p>
+
 
 ---
 
@@ -99,34 +104,49 @@ src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
 
 ## 📈 Real-Time GitHub & Cyber Stats
 
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavKumarPrasad&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PranavKrPrasad&show_icons=true&theme=tokyonight"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavKrPrasad&layout=compact&theme=tokyonight"
+    height="165"
+  />
 </p>
 
-<p>&nbsp;
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=PranavKumarPrasad&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=PranavKrPrasad&theme=tokyonight"
+    height="180"
+  />
 </p>
 
-<p>
-  <img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=PranavKumarPrasad&theme=tokyonight"/>
-</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         width="40"
+         alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         width="40"
+         alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+         width="40"
+         alt="Email"/>
+  </a>
 </p>
+
 
 ---
 
