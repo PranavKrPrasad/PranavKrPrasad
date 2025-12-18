@@ -1,6 +1,6 @@
 <!-- ================= TECHNICAL HEADER ================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420" />
+  <img src="https://i.pinimg.com/originals/15/79/fe/1579feb3e44c8e658aac136445720687.gif" width="420" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranav Kumar Prasad</h1>
