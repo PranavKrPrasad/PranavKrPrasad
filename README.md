@@ -35,8 +35,9 @@ src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
 </p>
 
 <p align="left">
-  <a href="https://www.hackthebox.com/profile/YOUR_HTB">
-    <img src="https://www.hackthebox.com/badge/image/YOUR_HTB" alt="Hack The Box Badge" />
+  <a href="https://app.hackthebox.com/users/2972908" target="_blank">
+    <img src="https://www.hackthebox.com/badge/image/2972908"
+         alt="Hack The Box Badge" />
   </a>
 </p>
 
