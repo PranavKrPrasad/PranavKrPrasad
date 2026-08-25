@@ -144,19 +144,19 @@ src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/pranav407078321" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          width="40"
          alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/pranav.prajapati_1234" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
          width="40"
          alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:pranav2020pranav@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
          width="40"
          alt="Email"/>
